@@ -234,7 +234,7 @@ Tabla de contenidos
 - [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/) 
 
 ### • Podcasts y reproductor de audiolibros
-- [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)<sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup> 
+- [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup> 
 - [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup> 
 - [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup> 
 - [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)]**</sup> 
