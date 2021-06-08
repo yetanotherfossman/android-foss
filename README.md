@@ -105,7 +105,7 @@ Tabla de contenidos
 - [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup> 
 - [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup> 
 - [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
-- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) 
+- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
 - [**Barinsta**](https://barinsta.austinhuang.me) <sup>**[[F-Droid](https://f-droid.org/app/me.austinhuang.instagrabber)]**</sup> 
 
 ### • Clientes para videos
@@ -207,6 +207,7 @@ Tabla de contenidos
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup> 
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 - [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
+- [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
 
 ### • Navegador
 - [**Firefox**](https://www.mozilla.org/firefox/android/) 
